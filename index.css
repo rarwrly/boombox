@@ -1,0 +1,19 @@
+body{
+    font-family: 'Lucida Console';
+}
+#boombox{
+    margin: auto;
+    width: 50%;
+    border: solid;
+    border-width: thick;
+}
+#audioContorls, #trackName{
+    margin: auto;
+    width: 50%;
+    padding-top: 10Px;
+    padding-bottom: 10px;
+}
+marquee#trackName{
+    direction: slide;
+    scrollamount:80;
+}
